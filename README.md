@@ -1,2 +1,1 @@
-# Brown
 Brown Bear Project
